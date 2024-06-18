@@ -1,5 +1,5 @@
 {
-  "name": "concurrently",
+  "name": "@cepharum/concurrently",
   "version": "8.2.2",
   "description": "Run commands concurrently",
   "main": "index.js",
